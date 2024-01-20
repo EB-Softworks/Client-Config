@@ -1,8 +1,9 @@
 RELEASED CLIENT CONFIG
 
 #FIXED
-    * N/A
+      * N/A
 #ADDED
-    * N/A
+      * Face Changer
+      * Settings
 #REMOVED
-    * N/A
+      * N/A
