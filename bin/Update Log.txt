@@ -1,7 +1,8 @@
 RELEASED CLIENT CONFIG
 
-# FIXED
-
-# ADDED
-
-# REMOVED
+#FIXED
+    * N/A
+#ADDED
+    * N/A
+#REMOVED
+    * N/A
